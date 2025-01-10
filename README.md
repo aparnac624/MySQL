@@ -6,3 +6,5 @@ Name (VARCHAR): The student's name.
 Marks (INTEGER): The student's marks.
 Grade (VARCHAR): The student's grade.
 Contact (VARCHAR): The student's contact information (to be added later).
+
+Screenshots of result have been attached for reference and verification.
